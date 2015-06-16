@@ -1,0 +1,7 @@
+{
+  "name": "bower",
+    "dependencies": {
+    "bootstrap-css": "3.*",
+    "fontawesome": "~4.2.*"
+  }
+}

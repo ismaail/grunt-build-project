@@ -1,0 +1,12 @@
+{
+  "name": "grunt-build",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-npmcopy": "latest",
+    "grunt-processhtml": "latest",
+    "grunt-text-replace": "latest"
+  }
+}
