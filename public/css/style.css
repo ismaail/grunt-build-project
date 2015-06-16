@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "PT Sans Narrow";
+    src: url("../fonts/PT_Sans_Narrow.woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    color: #222;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: #104DAA;
+}
+
+h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    line-height: 20px;
+}
+
+    p a {
+        color: #104DAA;
+    }
+
+.tags-list {
+    border-left: 2px solid rgba(16, 77, 170, 0.4);
+}
+
+    @media (max-width: 767px) {
+        .tags-list {
+            padding-top: 6px;
+            border-top: 2px solid rgba(16, 77, 170, 0.4);
+            border-left: none;
+        }
+    }
+
+    .tags-list i {
+        color: #91b9f5;
+        padding-right: 4px;
+        font-size: 1.2em;
+    }
+
+    .tags-list a {
+        color: #222;
+    }
+
+        .tags-list a:hover {
+            text-decoration: none;
+        }
+
+            .tags-list a:hover i {
+                color: #104DAA;
+            }
+
+.main-footer {
+	padding: 6px 10px;
+	background-color: #104DAA;
+	color: #fff;
+	text-align: right;
+}
+	.main-footer a {
+		color: #fff;
+	}
