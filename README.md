@@ -1,6 +1,6 @@
 ## Build project with Grunt
 
-This project is a working example for the post [Build project with Grunt](http://www.ismaail.com/14/build-project-with-grunt)
+This project is a working example for the post [Build project with Grunt](http://www.ismaail.com/post/build-project-with-grunt)
 
 The goal of this project is to create a ready for production `build/` folder using just Grunt.
 
